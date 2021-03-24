@@ -3,6 +3,8 @@
 #' @description
 #' Run a simple script by nnmkrt, implemented with NN
 #'
+#' @export
+#'
 #' @examples
 #' run_nnmrkt()
 run_nnmrkt <- function(){

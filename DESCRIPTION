@@ -1,0 +1,21 @@
+Package: nnmrkt
+Title: Neural Networks for marketing analysis
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Takashi J",
+           family = "Ozaki",
+           role = c("aut", "cre"),
+           email = "tjo@marketing.tjo.com")
+Description: Neural Networks for marketing analysis
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Suggests: 
+    knitr,
+    rmarkdown,
+    testthat (>= 2.0.0)
+VignetteBuilder: knitr
+Config/testthat/edition: 2
+Imports: e1071, ggplot2, dplyr, caret

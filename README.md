@@ -1,7 +1,7 @@
 # R Package nnmrkt
 Automated marketing analysis powered by the latest Neural networks
 
-!(Logo)[tools/nnmrktlogo.png]
+<img src="tools/nnmrktlogo.png">
 
 ## Overview
 

@@ -27,3 +27,7 @@ You will see some graphical demos with this function.
 library(nnmrkt)
 run_nnmrkt()
 ```
+
+## Note
+
+This is an **April Fool joke!**
